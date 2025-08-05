@@ -70,8 +70,6 @@ declare module 'vue' {
     Timelines: typeof import('./src/components/coms/Timelines.vue')['default']
     ToggleBtn: typeof import('./src/components/coms/ToggleBtn.vue')['default']
     Tooltip: typeof import('./src/components/coms/Tooltip.vue')['default']
-    Tooltips: typeof import('./src/components/coms/Tooltips.vue')['default']
-    ToolTips: typeof import('./src/components/coms/ToolTips.vue')['default']
     VModel: typeof import('./src/components/ref/V-model.vue')['default']
     Watchers: typeof import('./src/components/ref/Watchers.vue')['default']
     Windows: typeof import('./src/components/coms/Windows.vue')['default']
